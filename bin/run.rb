@@ -1,4 +1,4 @@
-Hashie
+
 Sinatra
 Octokit
 Pry
