@@ -37,7 +37,7 @@ PLATFORMS
 DEPENDENCIES
   pry
   rspec
-  sinatra (>= 1.4.4)
+  sinatra
 
 BUNDLED WITH
    2.0.1
